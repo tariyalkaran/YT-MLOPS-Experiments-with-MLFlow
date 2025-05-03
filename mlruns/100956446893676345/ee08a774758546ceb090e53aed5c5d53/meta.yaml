@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/100956446893676345/ee08a774758546ceb090e53aed5c5d53/artifacts
+end_time: 1746249436127
+entry_point_name: ''
+experiment_id: '100956446893676345'
+lifecycle_stage: active
+run_id: ee08a774758546ceb090e53aed5c5d53
+run_name: bedecked-slug-147
+run_uuid: ee08a774758546ceb090e53aed5c5d53
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746249420108
+status: 3
+tags: []
+user_id: KaranTariyal

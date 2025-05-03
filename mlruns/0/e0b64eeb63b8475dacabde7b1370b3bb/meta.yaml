@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e0b64eeb63b8475dacabde7b1370b3bb/artifacts
+end_time: 1746148917567
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e0b64eeb63b8475dacabde7b1370b3bb
+run_name: amusing-grouse-469
+run_uuid: e0b64eeb63b8475dacabde7b1370b3bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746148917374
+status: 4
+tags: []
+user_id: KaranTariyal

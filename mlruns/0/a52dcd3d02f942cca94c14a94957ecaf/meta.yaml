@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a52dcd3d02f942cca94c14a94957ecaf/artifacts
+end_time: 1746150467599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a52dcd3d02f942cca94c14a94957ecaf
+run_name: resilient-seal-731
+run_uuid: a52dcd3d02f942cca94c14a94957ecaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746150467290
+status: 4
+tags: []
+user_id: KaranTariyal

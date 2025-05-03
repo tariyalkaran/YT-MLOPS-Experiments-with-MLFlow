@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/100956446893676345/0e11050748e84a9298a009a460b984b0/artifacts
+end_time: 1746253082188
+entry_point_name: ''
+experiment_id: '100956446893676345'
+lifecycle_stage: active
+run_id: 0e11050748e84a9298a009a460b984b0
+run_name: carefree-auk-494
+run_uuid: 0e11050748e84a9298a009a460b984b0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746253071559
+status: 3
+tags: []
+user_id: KaranTariyal

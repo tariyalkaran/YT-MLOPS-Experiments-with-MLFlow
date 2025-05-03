@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c71707f4bae5453c9849e968825b585b/artifacts
+end_time: 1746166068576
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c71707f4bae5453c9849e968825b585b
+run_name: capable-dove-738
+run_uuid: c71707f4bae5453c9849e968825b585b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746166066855
+status: 3
+tags: []
+user_id: KaranTariyal

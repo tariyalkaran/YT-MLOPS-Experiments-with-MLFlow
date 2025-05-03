@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/c90b71627834481db3f7699a950171d9/artifacts
+end_time: 1746150507043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c90b71627834481db3f7699a950171d9
+run_name: bustling-smelt-337
+run_uuid: c90b71627834481db3f7699a950171d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746150505718
+status: 3
+tags: []
+user_id: KaranTariyal
